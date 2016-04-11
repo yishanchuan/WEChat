@@ -193,7 +193,15 @@ $dark:                            #444 !default;
 
 .rj-orange-bgc {
   background-color: orange; }
-
+.rj-black-bgc{
+	background-color:black;
+}
+.rj-calm-bgc{
+	background-color:#223399;
+}
+.rj-red-bgc{
+	background-color:#ff2c00;
+}  
 .rj-green-bgc {
   background-color: #63db2a; }
 

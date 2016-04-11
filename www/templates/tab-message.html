@@ -1,5 +1,5 @@
 <ion-header-bar align-title="left" class="bar-dark">
-    <div class="h1 title">微信(16)</div>
+    <div class="h1 title">微信</div>
     <div class="buttons">
         <button class="button no-animation button-icon icon ion-android-search">
         </button>
@@ -9,6 +9,12 @@
 </ion-header-bar>
 <ion-view>
     <ion-content on-swipe-left="onSwipeLeft()">
+		<ion-refresher
+				on-refresh="doRefresh()"  
+                pulling-text="Pull to refresh..."   
+                refreshing-text="Refreshing!"  
+                refreshing-icon="ion-loading-b" >
+        </ion-refresher> 
         <ion-list rj-close-back-drop>
             <ion-item class="item-avatar" ng-class="{'rj-item-top': message.isTop}" on-hold="popupMessageOpthins(message)" rj-hold-active ng-repeat="message in messages | orderBy:['isTop', 'lastMessage.timeFrome1970']:true" ng-click="messageDetils(message)">
                 <img ng-src="{{message.pic}}">

@@ -72,6 +72,9 @@ angular.module('wechat.controllers', [])
             index: 0
         };
     });
+	$scope.doReFresh=function(){
+		$scope.$broadcast('scroll.refreshComplete');
+	};
 
 })
 

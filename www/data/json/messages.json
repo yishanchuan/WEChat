@@ -1,13 +1,13 @@
 {
     "messages": [{
         "id": 8,
-        "name": "李明",
-        "pic": "img/adam.jpg",
+        "name": "张默",
+        "pic": "img/zhangmo.jpg",
         "lastMessage": {
-            "originalTime": "2015-11-27 06:34:55",
+            "originalTime": "2016-4-11 06:34:55",
             "time": "",
             "timeFrome1970": 0,
-            "content": "你在干什么?",
+            "content": "爸，快来救我！",
             "isFromeMe": false
         },
         "noReadMessages": 2,
@@ -15,79 +15,19 @@
         "isTop": 0,
         "message": [{
             "isFromeMe": false,
-            "content": "你好!",
-            "time": "2015-11-22 08:50:22"
-        }, {
-            "isFromeMe": true,
-            "content": "你好, 你是谁?",
-            "time": "2015-11-22 08:51:02"
-        }, {
+            "content": "爸，你现在在哪？",
+            "time": "2016-4-11 06:34:05"
+        },{
             "isFromeMe": false,
-            "content": "你在干什么?",
-            "time": "2015-11-27 06:34:55"
-        }, {
-            "isFromeMe": true,
-            "content": "知道怎么搞的吗?",
-            "time": "2015-11-22 08:51:02"
-        }, {
-            "isFromeMe": false,
-            "content": "这是一道可以测出一个人有没有商业头脑的数学题",
-            "time": "2015-11-27 06:34:55"
-        }, {
-            "isFromeMe": false,
-            "content": "喝咖啡对身体好吗?",
-            "time": "2015-11-22 08:51:02"
-        }, {
-            "isFromeMe": false,
-            "content": "在澳洲申请新西兰签证",
-            "time": "2015-11-27 06:34:55"
-        }, {
-            "isFromeMe": true,
-            "content": "说走就走的旅行",
-            "time": "2015-11-22 08:51:02"
-        }, {
-            "isFromeMe": false,
-            "content": "ok",
-            "time": "2015-11-27 06:34:55"
-        }, {
-            "isFromeMe": true,
-            "content": "拉玛西亚",
-            "time": "2015-11-22 08:51:02"
-        }, {
-            "isFromeMe": true,
-            "content": "拉玛西亚影视学院招生简章",
-            "time": "2015-11-27 06:34:55"
-        }, {
-            "isFromeMe": true,
-            "content": "去黑头产品排行榜",
-            "time": "2015-11-22 08:51:02"
-        }, {
-            "isFromeMe": false,
-            "content": "美国大使馆 北京",
-            "time": "2015-11-27 06:34:55"
-        }, {
-            "isFromeMe": false,
-            "content": "被开水烫伤怎么办?",
-            "time": "2015-11-22 08:51:02"
-        }, {
-            "isFromeMe": false,
-            "content": "谁说菜鸟不会数据分析?",
-            "time": "2015-11-27 06:34:55"
-        }, {
-            "isFromeMe": true,
-            "content": "谁念西风独自凉",
-            "time": "2015-11-22 08:51:02"
-        }, {
-            "isFromeMe": false,
-            "content": "被酒莫惊春睡重，赌书消得泼茶香，当时只道是寻常",
-            "time": "2015-11-27 06:34:55"
+            "content": "爸，快来救我",
+            "time": "2016-4-11 06:34:55"
         }]
     }, {
         "id": 1,
-        "name": "王峰",
-        "pic": "img/ben.png",
+        "name": "邓婕",
+        "pic": "img/dengjie.jpg",
         "lastMessage": {
-            "originalTime": "2015-11-26 5:22:55",
+            "originalTime": "2016-4-10 09:21:15",
             "time": "",
             "timeFrome1970": 0,
             "content": "明天什么时候去吃饭?",
@@ -98,21 +38,29 @@
         "isTop": 0,
         "message": [{
             "isFromeMe": false,
-            "content": "你好!",
-            "time": "2015-11-22 08:50:22"
-        }, {
-            "isFromeMe": true,
-            "content": "你好, 你是谁?",
-            "time": "2015-11-22 08:51:02"
-        }, {
+            "content": "你现在在哪？",
+            "time": "2015-11-26 5:22:55"
+        },{
+            "isFromeMe": false,
+            "content": "还不去上班",
+            "time": "2015-11-26 5:22:55"
+        },{
+            "isFromeMe": false,
+            "content": "明天有空吗？",
+            "time": "2015-11-26 5:22:55"
+        },{
+            "isFromeMe": false,
+            "content": "小默回来了！",
+            "time": "2015-11-26 5:22:55"
+        },{
             "isFromeMe": false,
             "content": "明天什么时候去吃饭?",
             "time": "2015-11-26 5:22:55"
         }]
     }, {
         "id": 7,
-        "name": "潘敏",
-        "pic": "img/max.png",
+        "name": "李白",
+        "pic": "img/libai.jpg",
         "lastMessage": {
             "originalTime": "2015-11-22 15:34:55",
             "time": "",
@@ -138,8 +86,8 @@
         }]
     }, {
         "id": 2,
-        "name": "王振启",
-        "pic": "img/mike.png",
+        "name": "张伟",
+        "pic": "img/zhangwei.jpg",
         "lastMessage": {
             "originalTime": "2015-11-21 15:34:55",
             "time": "",
@@ -147,22 +95,67 @@
             "content": "周末有什么安排?",
             "isFromeMe": false
         },
-        "noReadMessages": 20,
+        "noReadMessages": 1,
         "showHints": true,
-        "isTop": 0
+        "isTop": 0,
+		"message": [{
+            "isFromeMe": false,
+            "content": "你好!",
+            "time": "2015-11-22 08:50:22"
+        }, {
+            "isFromeMe": true,
+            "content": "你好",
+            "time": "2015-11-22 08:51:02"
+        }, {
+            "isFromeMe": false,
+            "content": "周末有什么安排？",
+            "time": "2015-11-22 15:34:55"
+        }]
     }, {
         "id": 6,
-        "name": "许仁杰",
-        "pic": "img/perry.png",
+        "name": "李娜",
+        "pic": "img/lina.jpg",
         "lastMessage": {
             "originalTime": "2014-10-12 15:34:55",
             "time": "",
             "timeFrome1970": 0,
-            "content": "好",
+            "content": "好久不见",
             "isFromeMe": false
         },
         "noReadMessages": 0,
         "showHints": false,
-        "isTop": 0
+        "isTop": 0，
+		"message": [{
+            "isFromeMe": false,
+            "content": "好久不见!",
+            "time": "2015-11-22 08:50:22"
+        }]
+    }, {
+        "id": 2,
+        "name": "张伟",
+        "pic": "img/zhangwei.jpg",
+        "lastMessage": {
+            "originalTime": "2015-11-21 15:34:55",
+            "time": "",
+            "timeFrome1970": 0,
+            "content": "周末有什么安排?",
+            "isFromeMe": false
+        },
+        "noReadMessages": 1,
+        "showHints": true,
+        "isTop": 0,
+		"message": [{
+            "isFromeMe": false,
+            "content": "你好!",
+            "time": "2015-11-22 08:50:22"
+        }, {
+            "isFromeMe": true,
+            "content": "你好",
+            "time": "2015-11-22 08:51:02"
+        }, {
+            "isFromeMe": false,
+            "content": "周末有什么安排？",
+            "time": "2015-11-22 15:34:55"
+        }]
     }]
 }

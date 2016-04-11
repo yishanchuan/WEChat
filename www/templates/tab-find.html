@@ -1,14 +1,81 @@
 <ion-header-bar align-title="left" class="bar-dark">
-	    <div class="h1 title">微信(16)</div>
-	    <div class="buttons">
+	    <div class="h1 title">微信</div>
+	    <!-- <div class="buttons">
 	        <button class="button no-animation button-icon icon ion-android-search">
 	        </button>
 	        <button class="button no-animation button-icon icon ion-android-add">
 	        </button>
-	    </div>
+	    </div> -->
 	</ion-header-bar>
 <ion-view on-swipe-left="onSwipeLeft()" on-swipe-right="onSwipeRight()">
     <ion-content>
-        <h1 >发现页面</h1>
+		<ion-list class="rj-list">
+            <ion-item class="rj-item">
+                <div class="rj-contacts-pic rj-orange-bgc">
+                    <i class="ion-android-people"></i>
+                </div>
+                <h2>朋友圈</h2>
+				<div class="rj-contacts-pic rj-black-bgc rj-contacts-right-bar">
+                    <i class="ion-ios-arrow-forward"></i>
+                </div>
+            </ion-item>
+			<div class="rj-contacts-index-bar"></div>
+            <ion-item class="rj-item">
+                 <div class="rj-contacts-pic rj-blue-bgc">
+                     <i class="ion-android-notifications"></i>
+                 </div>
+                 <h2>扫一扫</h2>
+				 <div class="rj-contacts-pic rj-black-bgc rj-contacts-right-bar">
+                    <i class="ion-ios-arrow-forward"></i>
+                </div>
+             </ion-item>	 
+             <ion-item class="rj-item">
+                 <div class="rj-contacts-pic rj-blue-bgc">
+                     <i class="ion-ios-pricetag"></i>
+                 </div>
+                 <h2>摇一摇</h2>
+				 <div class="rj-contacts-pic rj-black-bgc rj-contacts-right-bar">
+                    <i class="ion-ios-arrow-forward"></i>
+                </div>
+             </ion-item>
+			 <div class="rj-contacts-index-bar"></div>
+             <ion-item class="rj-item">
+                  <div class="rj-contacts-pic rj-blue-bgc">
+                      <i class="ion-paper-airplane"></i>
+                  </div>
+                  <h2>附近的人</h2>
+				  <div class="rj-contacts-pic rj-black-bgc rj-contacts-right-bar">
+                    <i class="ion-ios-arrow-forward"></i>
+                </div>
+             </ion-item>
+			 <ion-item class="rj-item">
+                  <div class="rj-contacts-pic rj-blue-bgc">
+                      <i class="ion-chatbubbles"></i>
+                  </div>
+                  <h2>漂流瓶</h2>
+				  <div class="rj-contacts-pic rj-black-bgc rj-contacts-right-bar">
+                    <i class="ion-ios-arrow-forward"></i>
+                </div>
+             </ion-item>
+			 <div class="rj-contacts-index-bar"></div>
+			 <ion-item class="rj-item">
+                  <div class="rj-contacts-pic rj-red-bgc">
+                      <i class="ion-android-cart"></i>
+                  </div>
+                  <h2>购物</h2>
+				  <div class="rj-contacts-pic rj-black-bgc rj-contacts-right-bar">
+                    <i class="ion-ios-arrow-forward"></i>
+                </div>
+             </ion-item>
+			 <ion-item class="rj-item">
+                  <div class="rj-contacts-pic rj-red-bgc">
+                      <i class="ion-xbox"></i>
+                  </div>
+                  <h2>游戏</h2>
+				  <div class="rj-contacts-pic rj-black-bgc rj-contacts-right-bar">
+                    <i class="ion-ios-arrow-forward"></i>
+                </div>
+             </ion-item>
+        </ion-list>
     </ion-content>
 </ion-view>
